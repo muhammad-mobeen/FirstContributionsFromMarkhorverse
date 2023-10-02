@@ -1,4 +1,8 @@
-1. Name: Muhammad Mobeen
-    AI Developer at Markhorverse
-    About Myself: An AI Developer at Markhorverse is a creative and innovative professional who works on developing cutting-edge artificial intelligence solutions for various domains. They use their skills in programming, machine learning, data science, and natural language processing to design, implement, and test AI applications that can solve real-world problems. Some of the projects they work on include chatbots, computer vision, speech recognition, natural language generation, recommender systems, and more. They collaborate with other developers, researchers, and clients to deliver high-quality products that meet the needs and expectations of the users. They also keep up with the latest trends and developments in the field of AI and constantly learn new tools and techniques to improve their skills and knowledge. An AI Developer at Markhorverse is passionate about creating intelligent systems that can enhance the lives of people and society.
+1. Name: Muhammad Zain Ul Abaideen
+    MERN STACK DEVELOPER at Markhorverse
+    About Myself: I am an enthusiastic and driven MERN Stack Developer with a passion for creating dynamic and user-centric web applications. With a strong foundation in MongoDB, Express.js, React, and Node.js, I am well-equipped to tackle complex web development challenges and deliver exceptional digital experiences.
+
+    My journey in web development has been marked by continuous learning and a commitment to staying abreast of the latest trends and best practices in the field. I thrive on turning creative ideas into functional and scalable web solutions, and I relish the opportunity to collaborate with diverse teams to bring projects to life.
+
+    Having honed my skills in both front-end and back-end development, I am adept at crafting responsive and visually appealing user interfaces while also optimizing server-side processes for performance and scalability. I understand the importance of clean, maintainable code and robust architecture in ensuring the long-term success of web applications.
 
